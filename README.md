@@ -1,17 +1,39 @@
-# CodeAlpha Language Translator
+# 🌍 CodeAlpha Language Translator
 
-## Description
-A Python-based language translation web application built using Streamlit.
+A multilingual language translation web application developed using Python and Streamlit as part of the CodeAlpha Artificial Intelligence Internship.
 
-## Features
+## ✨ Features
+
 - Translate text between multiple languages
-- Auto language detection
-- Simple and clean interface
+- Simple and clean user interface
+- Fast translation using Deep Translator
+- Error handling for failed translations
 
-## Technologies Used
+## 🛠️ Technologies Used
+
 - Python
 - Streamlit
-- deep-translator
+- Deep Translator
 
-## Author
+## 📂 Project Structure
+
+```
+LanguageTranslator/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── assets/
+```
+
+## 🚀 Future Improvements
+
+- Auto language detection
+- Translation history
+- Copy translated text
+- Text-to-Speech
+- Language swap button
+
+## 👨‍💻 Author
+
 Kushagra

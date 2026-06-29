@@ -23,7 +23,13 @@ The application allows users to translate text between multiple languages using 
 - Multiple translations in a single session
 
 ---
+## ✨ New Features (Version 1.1)
 
+- Auto Detect Language
+- Translation History
+- Session Translation Counter
+- Multiple translations without restarting
+- Improved error handling
 ## 🛠️ Technologies Used
 
 - Python 3
